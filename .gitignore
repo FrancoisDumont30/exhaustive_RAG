@@ -1,0 +1,8 @@
+__pycache__/
+.venv*/
+services/__pycache__/
+vectors/
+
+.env
+test.*
+*.pdf
