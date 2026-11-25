@@ -12,12 +12,10 @@ You can find how to fix it here:
 ```
 MISTRAL_API_KEY="your_mistral_api_key"
 ```
-
 ### Run the app
 ```bash
 streamlit run app.py
 ```
-
 ### In this repo
-[App screenshots](./screens/)
+[App screenshots](./screens/)  
 [RAG: how it works and the exhaustiveness problem](RAG_limit.md)
