@@ -1,6 +1,6 @@
 # Exhaustive RAG
 
-A RAG (Retrieval-Augmented Generation) app for long contractual documents (construction contracts), designed to give **complete** answers rather than the most similar passages only.
+A RAG (Retrieval-Augmented Generation) app for long contractual documents (construction contracts), designed to give **complete** answers rather than the most similar passages only.  
 Stack: Mistral LLM (structured output, OCR, prompting),  
 LlamaIndex (metadata, reranking, vector storage), Streamlit.  
 
